@@ -1,9 +1,7 @@
 <h1 align="center">Hi! Myself Anuj Agrawal</h1>
 <h3 align="center">Jack of all trades, Master of none!</h3>
 
-- 🌱 I’m currently learning **Deep learning and Neural networks**
-
-- I’m looking to collaborate on Web and Deep learning **Publications**
+- 🌱 I love to work on new technologies.
 
 - 📫 How to reach me **anujagrawal380@gmail,com**
 
