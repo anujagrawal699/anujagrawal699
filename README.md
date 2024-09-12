@@ -66,7 +66,7 @@
 
 
 | 🏢 Company | 💼 Role |
-| --- | --- | --- |
+| --- | --- |
 | [JP Morgan Chase & Co.](https://drive.google.com/file/d/1JYbE_WUBhDlw6bCZ2tLFFAdJkgB8Bw5A/view) | Software Engineering |
 | [Goldman Sachs](https://drive.google.com/file/d/1EbmhwUGjWQOxjXeqGKBNyf80fBxt3npO/view) | Software Engineering |
 
