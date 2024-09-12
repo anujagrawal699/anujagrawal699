@@ -1,27 +1,81 @@
-<h3 align="center">Jack of All Trades, Soon Master of All!</h3>
+<!-- ----------- HEAD SECTION ------------ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujagrawal699&label=Profile%20views&color=0e75b6&style=flat" alt="anujagrawal699" /> </p>
-
-- All about Me! [https://anujagrawal.tech/](https://anujagrawal.tech/)
-
-- 📫 How to reach me **anujagrawal380@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anuj-agrawal380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-agrawal380" height="30" width="40" /></a>
-<a href="https://medium.com/@anujagrwal380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anujagrwal380" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anujagrwal380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anujagrwal380" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anujagrawal699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujagrawal699" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anujagraodtu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anujagraodtu/profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Anuj;+An+Open+Source+Contributor+🌟;A+Competitive+Programmer+💻;A+Distributed+Systems+Fan+🌐;A+Jack+of+All+Trades+📖;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujagrawal699&show_icons=true&locale=en" alt="anujagrawal699" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujagrawal699&" alt="anujagrawal699" /></p>
+---
+
+<span>[<kbd> <br> LeetCode <br> </kbd>](https://leetcode.com/anujagrawal699/)</span>
+<span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@anujagrawal380/)</span>
+<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
+<span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
+<span>[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)</span>
+<span>[<kbd> <br> Virtual Experience <br> </kbd>](#virtual-experience)</span>
+
+<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
+<span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
+
+---
+
+<table>
+  <tr>
+      <td><a href="https://github.com/anujagrawal699"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://www.linkedin.com/in/anuj-agrawal380"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:anujagrawal380@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+</div>
+
+## About
+
+-  I am a juunior undergraduate electronics (but i study computer science) student at SGGSIE&T, Nanded.
+- I love to work on new technologies and try to be as adaptable as possible. (We can do anything, Believe it!)
+- I'm pretty good in problem solving [DSA Stats](https://codolio.com/profile/anujagrawal)
+- 💬 Feel free to ask me anything related to Computer Science!
+
+## Work Experience
+
+
+| 🏢 Company/Org | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Cloud Native Computing Foundation](https://www.cncf.io/) | LFX Mentee (at [Karmada.IO](https://karmada.io/)) | Sep 2024 - Present |
+| [Wikipedia Foundation](https://wikimediafoundation.org/) | Open Source Contributor | Jul 2024 - Present |
+| [FinesseFleet](https://www.linkedin.com/company/finessefleet/) | Software Engineering Intern | Feb 2024 - May 2024 |
+| RoboMeet Centre | STEM & Robotics Mentor | Nov 2023 - Jan 2024 |
+
+## Open Source Contributions
+
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
+| --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/Karmada.IO-Karmada-blue?style=flat-square)](https://github.com/karmada-io/karmada) | ![GitHub Repo stars](https://img.shields.io/github/stars/karmada-io/karmada?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/karmada-io/karmada?style=flat-square) | [Issues](https://github.com/karmada-io/karmada/issues?q=+is%3Aissue+author%3Aanujagrawal699) \| [Pull Requests](https://github.com/karmada-io/karmada/pulls?q=+is%3Apr+author%3Aanujagrawal699) \| [Discussions](https://github.com/karmada-io/karmada/discussions?discussions_q=+author%3Aanujagrawal699)
+| [![Gerrit Repo](https://img.shields.io/badge/Wikimedia-Foundation-blue?style=flat-square)](https://gerrit.wikimedia.org) | | | [Pull Requests](https://gerrit.wikimedia.org/r/q/owner:anujagrawal380@gmail.com) |
+
+
+
+## Mentorship Experience
+| 🏢 Org | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Linux Foundation](https://mentorship.lfx.linuxfoundation.org/mentee/e7dc3c7b-0df6-42f1-9008-bb8cd7fdd1bd) | LFX Mentee | Sep 2024 - July Present |
+
+## Virtual Experience
+
+
+| 🏢 Company | 💼 Role |
+| --- | --- | --- |
+| [JP Morgan Chase & Co.](https://drive.google.com/file/d/1JYbE_WUBhDlw6bCZ2tLFFAdJkgB8Bw5A/view) | Software Engineering |
+| [Goldman Sachs](https://drive.google.com/file/d/1EbmhwUGjWQOxjXeqGKBNyf80fBxt3npO/view) | Software Engineering |
+
+
+## Quotes I Like
+- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
+- “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Theory and practice sometimes clash. And when that happens, theory loses. Every single time." - ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
+- "Information flow is what the Internet is about. Information sharing is power. If you don't share your ideas, smart people can't do anything about them, and you'll remain anonymous and powerless." ([Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) - The Father of the Internet)
+- "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn't do." ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
+- "Don’t take criticism from someone you wouldn’t take advice from." ([Jim Kwik](https://en.wikipedia.org/wiki/Jim_Kwik) - Limitless)
