@@ -33,7 +33,7 @@
 
 ## About
 
--  I am a juunior undergraduate electronics (but i study computer science) student at SGGSIE&T, Nanded.
+-  I am a junior undergraduate electronics (but i study computer science) student at SGGSIE&T, Nanded.
 - I love to work on new technologies and try to be as adaptable as possible. (We can do anything, Believe it!)
 - I'm pretty good in problem solving [DSA Stats](https://codolio.com/profile/anujagrawal)
 - 💬 Feel free to ask me anything related to Computer Science!
