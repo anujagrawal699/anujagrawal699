@@ -60,7 +60,7 @@
 ## Mentorship Experience
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Linux Foundation](https://mentorship.lfx.linuxfoundation.org/mentee/e7dc3c7b-0df6-42f1-9008-bb8cd7fdd1bd) | LFX Mentee | Sep 2024 - July Present |
+| [Linux Foundation](https://mentorship.lfx.linuxfoundation.org/mentee/e7dc3c7b-0df6-42f1-9008-bb8cd7fdd1bd) | LFX Mentee | Sep 2024 - Oct 2024 |
 
 ## Virtual Experience
 
