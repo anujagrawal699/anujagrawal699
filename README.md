@@ -44,6 +44,7 @@
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Google](https://www.google.co.in/) | Upcoming SWE Intern | May 2025 - Aug 2025 |
+| [Zolidar](https://zolidar.io/) | SWE Intern | Feb 2025 - Apr 2025 |
 | [Cloud Native Computing Foundation](https://www.cncf.io/) | LFX Mentee (at [Karmada.IO](https://karmada.io/)) | Sep 2024 - Present |
 | [Wikipedia Foundation](https://wikimediafoundation.org/) | Open Source Contributor | Jul 2024 - Present |
 | [FinesseFleet](https://www.linkedin.com/company/finessefleet/) | Software Engineering Intern | Feb 2024 - May 2024 |
